@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://dev.to/lvllaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lvllaby" height="30" width="40" /></a>
 <a href="https://twitter.com/lullabytrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lullabytrash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lullaby_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lullaby_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lullaby_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lullaby_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
